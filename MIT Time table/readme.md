@@ -12,7 +12,7 @@ https://coruscating-cactus-596b8e.netlify.app/
 ## Screenshots Preveiw
 
 <!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
-![App Screenshot](./logo/MIT_official_Logo.jpg)
+![App Screenshot](./logo/sccreenshot.jpg)
 
 
 
