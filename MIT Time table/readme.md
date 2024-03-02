@@ -7,6 +7,16 @@ This is my first project which I created by HTML and "Very Little CSS" in my  3r
 
 
 https://coruscating-cactus-596b8e.netlify.app/
+
+
+## Screenshots Preveiw
+
+<!-- ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here) -->
+![App Screenshot](./logo/MIT_official_Logo.jpg)
+
+
+
+
 ## Features
 
 - Clearly displays the time and day of each class
